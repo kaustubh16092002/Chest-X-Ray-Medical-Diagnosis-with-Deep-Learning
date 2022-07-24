@@ -5,7 +5,7 @@ Diagnose 14 pathologies on Chest X-Ray using Deep Learning. Perform diagnostic i
 
 
 # Project Description
-This project is a complilation of several sub-projects from Coursera 3-course [IA for Medical Specialization](https://www.coursera.org/specializations/ai-for-medicine). The objective is to use a deep learning model to diagnose pathologies from Chest X-Rays.
+The objective is to use a deep learning model to diagnose pathologies from Chest X-Rays.
 
 The project uses a pretrained DenseNet-121 model able to diagnose 14 labels such as Cardiomegaly, Mass, Pneumothorax or Edema. In other words, this single model can provide binary classification predictions for each of the 14 labeled pathologies.
 
